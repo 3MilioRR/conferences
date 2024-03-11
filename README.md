@@ -3,7 +3,7 @@ Repositorio de charlas y conferencias.
 
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">2024</h2></div>
 <ul dir="auto">
-<li>RootedCON / ProtAAPP- Somos los agentes de la T.I.A. 🌐 </li>
+<li>RootedCON / ProtAAPP- Somos los agentes de la T.I.A. <a href="https://github.com/3MilioRR/conferences/blob/main/Son%20Cosas%20de%20la%20EDAD%20%5BNavaja%20Negra%20-%202022%5D.pdf">🌐</a></li>
 </ul>
 
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">2023</h2></div>
