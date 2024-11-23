@@ -6,6 +6,8 @@ Repositorio de charlas y conferencias.
 <li>RootedCON / ProtAAPP- Somos los agentes de la T.I.A. <a href="https://github.com/3MilioRR/conferences/blob/main/Somos%20los%20agentes%20de%20la%20TIA%20%5BRootedCON%202024%5D.pdf">🌐</a></li>
 <li>CCN-CERT Cap PANAMA & RootedCON - ¡Cosas que nunca te dije (de MITRE)!</li>
 <li>C1b3rWall - ATLAS: Analizando Todas Las Amenazas Sofisticad<strong>IA</strong>s </li>
+<li>Navaja Negra - Nubes de Tormenta </li>
+<li>XXX Cong. Derecho Sanitario - IA ¿Amenaza o Aliada? </li>
 </ul>
 
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">2023</h2></div>
