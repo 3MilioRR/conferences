@@ -8,6 +8,8 @@ Repositorio de charlas y conferencias.
 <li>C1b3rWall - ATLAS: Analizando Todas Las Amenazas Sofisticad<strong>IA</strong>s </li>
 <li>Navaja Negra - Nubes de Tormenta </li>
 <li>XXX Cong. Derecho Sanitario - IA ¿Amenaza o Aliada? </li>
+<li>DanaCON Solidario - Mentiroso Compulsivo</li>
+<li>CCN-CERT & MCCE - <strong>C</strong>uidado, <strong>T</strong>ienes <strong>E</strong>xtraños <strong>M</strong>erodeando</li>  
 </ul>
 
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">2023</h2></div>
