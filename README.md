@@ -3,7 +3,7 @@ Repositorio de charlas y conferencias.
 
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">2025</h2></div>
 <ul dir="auto">
-<li>ASD IA - Automatización y Risesgos</li>
+<li>ASD IA - Automatización y Riesgos</li>
 <li>RootedCON / ProtAAPP- Hack the Question</li>
 <li>Navarra OTDChallenge - NIS2</li>
 <li>CN-CERT Cap PANAMA & RootedCON - Shall we play a game, JEFE?</li>
