@@ -1,6 +1,17 @@
 # conferences
 Repositorio de charlas y conferencias.
 
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">2025</h2></div>
+<ul dir="auto">
+<li>ASD IA - Automatización y Risesgos</li>
+<li>RootedCON / ProtAAPP- Hack the Question</li>
+<li>Navarra OTDChallenge - NIS2</li>
+<li>CN-CERT Cap PANAMA & RootedCON - Shall we play a game, JEFE?</li>
+<li>C1b3rWall - Amanecen Amenazas</li>
+<li>Navaja Negra - <strong>AADAPT</strong>ate (o te levantarán la cartera).</li>
+<li>CCN-CERT & MCCE - Aye, aye, Capt<strong>AI</strong>n (Upss! Mi comandante es una IA)</li>  
+</ul>
+
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">2024</h2></div>
 <ul dir="auto">
 <li>RootedCON / ProtAAPP- Somos los agentes de la T.I.A. <a href="https://github.com/3MilioRR/conferences/blob/main/Somos%20los%20agentes%20de%20la%20TIA%20%5BRootedCON%202024%5D.pdf">🌐</a></li>
