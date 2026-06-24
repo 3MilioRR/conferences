@@ -1,6 +1,13 @@
 # conferences
 Repositorio de charlas y conferencias.
 
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">2026</h2></div>
+<ul dir="auto">
+<li>CN-CERT Cap. Santo Domingo & RootedCON - Tenemos un Ransomware</li>
+<li>C1b3rWall - No mires arriba! (Don't Look up!)</li>
+<li>LIS - IA y Gobernanza</li>
+</ul>
+
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">2025</h2></div>
 <ul dir="auto">
 <li>ASD IA - Automatización y Riesgos</li>
